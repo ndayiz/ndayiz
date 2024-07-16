@@ -1,0 +1,3 @@
+Hello, Git!
+My name is Bernard
+I'm learning how to push code on github!
